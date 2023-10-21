@@ -1,4 +1,4 @@
-# FitnessLab\
+# FitnessLab
 
 Hello, I'd like to introduce you to FitnessLab, a passion project turned reality that brings gym management to a whole new level.
 
