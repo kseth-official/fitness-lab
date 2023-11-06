@@ -2,6 +2,8 @@
 
 This is FitnessLab, a project I built with 2 other students for a Databases Course.
 
+![](ER_Diagram.png)
+
 ## Key Features:
 
 - ER Diagram: I designed an ER diagram with nine entities, 11 relationships, and 2 ISA hierarchies. This enables efficiency and eliminates data redundancy.
