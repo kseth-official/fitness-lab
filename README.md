@@ -1,6 +1,6 @@
 # FitnessLab
 
-This is FitnessLab, a project I built with 2 other students for a Databases Course.
+This is FitnessLab, a Gym Management Software project I built with two other students for a Databases Course.
 
 ![](ER_Diagram.png)
 
